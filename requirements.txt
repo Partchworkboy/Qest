@@ -1,3 +1,4 @@
-streamlit
-pandas
-sqlite3
+python=3.10.12
+streamlit==1.31.1
+pandas==
+sqlite3==3.37.2
