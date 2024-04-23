@@ -18,7 +18,6 @@ chardet==4.0.0
 charset-normalizer==3.3.2
 click==8.0.3
 colorama==0.4.4
-comm==0.2.1pip install -r requirements.txt
 contourpy==1.2.0
 cryptography==3.4.8
 cupshelpers==1.0
