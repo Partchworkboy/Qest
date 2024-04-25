@@ -19,7 +19,6 @@ cursor.execute("""
     );
 """)
 
-@st.cache_resource 
 def get_connection():
     return conn
 
@@ -84,7 +83,6 @@ def main():
         questionnaire()
     elif page == "Responses":
         display_responses()
-    conn.close()
 
 if __name__ == "__main__":
     main()
